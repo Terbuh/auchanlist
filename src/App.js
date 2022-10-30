@@ -2,7 +2,7 @@ import './App.css';
 import HeaderTitle from "./components/Header-title";
 import {useState} from "react";
 import { v4 as uuidv4 } from 'uuid';
-import AddItem from "./components/AddItem";
+import AddItem from "./components/AddItem/AddItem";
 import Listazakupow from "./components/Listazakupow";
 import './components/styles/Cyberpunk-Regular.ttf'
 
